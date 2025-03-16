@@ -27,7 +27,7 @@ const About = () => {
                             <div className="border-l-4 border-blue-500 pl-4 py-2">
                                 <h4 className="font-bold">Education</h4>
                                 <p className="text-gray-600 dark:text-gray-400">
-                                    Bachelor's of Technology<br />
+                                    Bachelor&apos;s of Technology<br />
                                     ABES ENGINEERING COLLEGE, 2020-2024
                                 </p>
                             </div>
