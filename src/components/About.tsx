@@ -10,7 +10,7 @@ const About = () => {
                     <div className="space-y-6">
                         <h3 className="text-2xl font-semibold">Who I Am</h3>
                         <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
-                            I'm a passionate web developer with a strong focus on creating beautiful,
+                            I&apos;m a passionate web developer with a strong focus on creating beautiful,
                             functional, and user-friendly websites. With a background in design and
                             programming, I bring a unique perspective to every project.
                         </p>

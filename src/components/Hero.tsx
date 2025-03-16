@@ -7,7 +7,7 @@ const Hero = () => {
             <div className="max-w-7xl w-full grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
                 <div className="flex flex-col space-y-6">
                     <h1 className="text-4xl md:text-6xl font-bold">
-                        Hi, I'm <span className="text-blue-500">Gaurav Chaudhary</span>
+                        Hi, I&apos;m <span className="text-blue-500">Gaurav Chaudhary</span>
                     </h1>
                     <h2 className="text-2xl md:text-3xl text-gray-600 dark:text-gray-300">
                         Web Developer & Software Engineer

@@ -41,6 +41,7 @@ const Contact = () => {
                 subject: "",
                 message: "",
             });
+            // eslint-disable-next-line @typescript-eslint/no-unused-vars
         } catch (error) {
             setSubmitError("There was an error submitting the form. Please try again.");
         } finally {
