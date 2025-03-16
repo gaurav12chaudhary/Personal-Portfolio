@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website built with Next.js and Tailwind CSS.
 # Project URL 
-https://github.com/gaurav12chaudhary/Personal-Portfolio/
+[https://github.com/gaurav12chaudhary/Personal-Portfolio/](https://personal-portfolio-s9ls.vercel.app/)
 
 ## Features
 
