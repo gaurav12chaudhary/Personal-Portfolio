@@ -31,13 +31,13 @@ const Hero = () => {
                     </div>
                 </div>
                 <div className="flex justify-center">
-                    <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-blue-500">
+                    <div className="relative w-64 h-64 md:w-84 md:h-84 rounded-full overflow-hidden border-4 border-blue-500">
                         {/* Replace with your own image */}
                         <Image
                             src="/profile-placeholder.jpeg"
                             alt="Gaurav Chaudhary"
                             fill
-                            style={{ objectFit: "cover", objectPosition: "center" }}
+                            style={{  objectPosition: "center" }}
                             priority
                         />
                     </div>
